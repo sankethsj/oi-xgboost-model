@@ -11,9 +11,9 @@ Payload :
 ```JSON
 {
 	"day": <integer>,
-    "cmp": <float>,
-    "calls_change_oi": <integer>,
-    "puts_change_oi": <integer>
+	"cmp": <float>,
+	"calls_change_oi": <integer>,
+	"puts_change_oi": <integer>
 }
 ```
 
