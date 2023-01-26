@@ -2,3 +2,4 @@ xgboost
 fastapi
 numpy
 uvicorn
+sklearn
